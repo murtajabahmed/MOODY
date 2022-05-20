@@ -1,0 +1,44 @@
+/*Font and other connection
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+font-family: 'Fjalla One', sans-serif;*/
+.backgnd{
+    background-image: url(../img/background.jpg);
+    width: 100%;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.backgnd1{
+    background-image: url(../img/background1.jpg);
+    width: 100%;
+    height: fit-content;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.backgnd2{
+    background-image: url(../img/background2.jpg);
+    width: 100%;
+    height: fit-content;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.backgnd3{
+    background-image: url(../img/background3.jpg);
+    width: 100%;
+    height: fit-content;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.backgnd4{
+    background-image: url(../img/background3.jpg);
+    width: 100%;
+    height: fit-content;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
+.backgnd5{
+    background-image: url(../img/bg.jpg);
+    width: 100%;
+    height: fit-content;
+    overflow: hidden;
+    background-repeat: no-repeat;
+}
